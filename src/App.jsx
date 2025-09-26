@@ -24,6 +24,7 @@ function App() {
       <Footer/>
  
     </>
+   // link the all components 
   )
 }
 
