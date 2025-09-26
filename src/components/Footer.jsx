@@ -13,10 +13,10 @@ const Footer = () => {
             <i className="fas fa-envelope"></i>
           </a>
           <a href="https://www.linkedin.com/in/mohammed-afsal1/" target="_blank" rel="noopener noreferrer" className="hover:text-green-400 transition">
-            <i className="fab fa-linkedin"></i>
+            <i className="fab fa-linkedin"></i>//linked in add
           </a>
           <a href="https://github.com/afsal-code" target="_blank" rel="noopener noreferrer" className="hover:text-green-400 transition">
-            <i className="fab fa-github"></i>
+            <i className="fab fa-github"></i>//GitHub 
           </a>
         </div>
       </div>
